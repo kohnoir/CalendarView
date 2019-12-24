@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CalendarView</string>
+    <string name="StartDate">Дата-время старта задачи: </string>
+    <string name="EndDate">Дата-время окончания задачи: </string>
+    <string name="OK">OK</string>
+    <string name="start">старт: </string>
+    <string name="end">окончаниe:</string>
+    <string name="error">Ошибка</string>
+
 </resources>
